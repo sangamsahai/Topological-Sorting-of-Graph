@@ -1,0 +1,10 @@
+directed
+4
+A
+B
+C
+D
+A B 
+A C
+C B
+B D
